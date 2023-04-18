@@ -10,7 +10,6 @@ Index para organizar todos los repos que tengo de parciales y clases de ambas te
 ![image](https://user-images.githubusercontent.com/40859246/232822727-671ca72d-3bab-4853-9a38-58e9fdd9700c.png)
 ![image](https://user-images.githubusercontent.com/40859246/232821618-ee9bfe42-b25d-4abe-925f-351ebc9e7ac6.png)
 ![image](https://user-images.githubusercontent.com/40859246/232822404-908900dc-9e58-46d9-9867-04048a3aee2d.png)
-![image](https://user-images.githubusercontent.com/40859246/232823004-f1bd111d-7e29-4362-a4fc-1fda5e7d4030.png)
 
 ## Curso de Ingreso
 -   [Introducción a la Programación](https://github.com/SeleneAbraldez/CursoIngresoJS)
