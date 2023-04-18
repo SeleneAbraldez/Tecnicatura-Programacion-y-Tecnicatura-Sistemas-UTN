@@ -4,11 +4,13 @@ Index para organizar todos los repos que tengo de parciales y clases de ambas te
 
 # [TECNICATURA UNIVERSITARIA EN PROGRAMACIÓN](http://www.sistemas-utnfra.com.ar/#/pages/carrera/tecnico-programacion/resumen)
 ![image](https://user-images.githubusercontent.com/40859246/232821333-8923c4b1-350d-40a2-a610-f459c43fc332.png)
-![image](https://user-images.githubusercontent.com/40859246/232806738-46cf1dc5-96cd-497f-8dec-b0012bdc5922.png)
-![image](https://user-images.githubusercontent.com/40859246/232806762-af888a99-b9f3-4507-8b9c-aff0175f8506.png)
-![image](https://user-images.githubusercontent.com/40859246/232806773-4afe6b0c-2912-45ad-97f1-f11125023abd.png)
-![image](https://user-images.githubusercontent.com/40859246/232806801-1ff4d429-8455-4053-8786-63060cc83562.png)
+![image](https://user-images.githubusercontent.com/40859246/232822280-ab6eb794-812a-418e-adfb-5522b5f26530.png)
+![image](https://user-images.githubusercontent.com/40859246/232822480-e8d9b0d3-dd77-4094-a109-fa01f68305e0.png)
+![image](https://user-images.githubusercontent.com/40859246/232822555-c46f6559-42bb-41bb-91a2-1cf5e86642df.png)
+![image](https://user-images.githubusercontent.com/40859246/232822727-671ca72d-3bab-4853-9a38-58e9fdd9700c.png)
 ![image](https://user-images.githubusercontent.com/40859246/232821618-ee9bfe42-b25d-4abe-925f-351ebc9e7ac6.png)
+![image](https://user-images.githubusercontent.com/40859246/232822404-908900dc-9e58-46d9-9867-04048a3aee2d.png)
+![image](https://user-images.githubusercontent.com/40859246/232823004-f1bd111d-7e29-4362-a4fc-1fda5e7d4030.png)
 
 ## Curso de Ingreso
 -   [Introducción a la Programación](https://github.com/SeleneAbraldez/CursoIngresoJS)
@@ -61,7 +63,7 @@ Index para organizar todos los repos que tengo de parciales y clases de ambas te
 ![image](https://user-images.githubusercontent.com/40859246/232821497-83f94276-3e5f-4fe1-85fa-fb0194899b68.png)
 ![image](https://user-images.githubusercontent.com/40859246/232821528-6278b7e4-d57f-4331-893c-927db2051da7.png)
 ![image](https://user-images.githubusercontent.com/40859246/232821593-36a1db04-042c-4c18-bba7-6e6c61738f2e.png)
-
+![image](https://user-images.githubusercontent.com/40859246/232822960-8a53b963-cc1a-435f-9a5f-599ea0edfa6e.png)
 
 ## 1º Cuatrimestre
 -   Metodología de Sistemas II
